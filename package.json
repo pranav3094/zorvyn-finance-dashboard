@@ -1,5 +1,7 @@
 {
-  "name": "zorvyn-fin-frontend",
+  
+  "name": "zorvyn-dashboard",
+  "homepage": "https://pranav3094.github.io/zorvyn-finance-dashboard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -25,4 +27,5 @@
     "globals": "^17.4.0",
     "vite": "^8.0.4"
   }
+  
 }
